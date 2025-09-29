@@ -1,0 +1,7 @@
+.skill-item {
+  display: flex;
+  align-items: center;  /* Vertically center items */
+}
+.skill-item img {
+  margin-right: 10px; /* spacing between logo and text */
+}
